@@ -1,0 +1,180 @@
+{
+  "courses": [
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA01",
+      "course_label": "Algoritmusok és adatszerkezetek (GINFBAN-PROPARTE-1)",
+      "weekday": "3 (Szerda)",
+      "course_type": "Előadás",
+      "beginning": "08:00",
+      "end": "09:45",
+      "teacher": "Nagy Gábor Dr.",
+      "credit": 3,
+      "day_code": 3
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA02",
+      "course_label": "Számítógépes grafika (GINFBAN-PROPARTE-1)",
+      "weekday": "4 (Csütörtök)",
+      "course_type": "Labor",
+      "beginning": "10:30",
+      "end": "12:15",
+      "teacher": "Kiss Márton",
+      "credit": 4,
+      "day_code": 4
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA03",
+      "course_label": "Operációs rendszerek (GINFBAN-PROPARTE-1)",
+      "weekday": "4 (Csütörtök)",
+      "course_type": "Előadás",
+      "beginning": "14:00",
+      "end": "15:45",
+      "teacher": "Tóth Péter Dr.",
+      "credit": 2,
+      "day_code": 4
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA04",
+      "course_label": "Szoftverfejlesztési módszertanok (GINFBAN-PROPARTE-1)",
+      "weekday": "5 (Péntek)",
+      "course_type": "Gyakorlat",
+      "beginning": "13:00",
+      "end": "14:45",
+      "teacher": "Szabó Zsolt",
+      "credit": 5,
+      "day_code": 5
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA05",
+      "course_label": "Hálózatok (GINFBAN-PROPARTE-1)",
+      "weekday": "1 (Hétfő)",
+      "course_type": "Labor",
+      "beginning": "09:00",
+      "end": "10:45",
+      "teacher": "Kovács Anna",
+      "credit": 3,
+      "day_code": 1
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA06",
+      "course_label": "Adatbázisrendszerek (GINFBAN-PROPARTE-1)",
+      "weekday": "2 (Kedd)",
+      "course_type": "Előadás",
+      "beginning": "11:30",
+      "end": "13:15",
+      "teacher": "Molnár István",
+      "credit": 1,
+      "day_code": 2
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA07",
+      "course_label": "Mesterséges intelligencia (GINFBAN-PROPARTE-1)",
+      "weekday": "3 (Szerda)",
+      "course_type": "Gyakorlat",
+      "beginning": "15:00",
+      "end": "16:45",
+      "teacher": "Kovács Péter",
+      "credit": 3,
+      "day_code": 3
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA08",
+      "course_label": "Programozási paradigmák és technikák (GINFBAN-PROPARTE-1)",
+      "weekday": "1 (Hétfő)",
+      "course_type": "Labor",
+      "beginning": "12:00",
+      "end": "13:45",
+      "teacher": "Kovács Tamás Dr",
+      "credit": 2,
+      "day_code": 1
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA09",
+      "course_label": "Szoftvertesztelés (GINFBAN-PROPARTE-1)",
+      "weekday": "2 (Kedd)",
+      "course_type": "Előadás",
+      "beginning": "08:30",
+      "end": "10:15",
+      "teacher": "Nagy Zoltán",
+      "credit": 1,
+      "day_code": 2
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA10",
+      "course_label": "Felhasználói interfészek (GINFBAN-PROPARTE-1)",
+      "weekday": "3 (Szerda)",
+      "course_type": "Gyakorlat",
+      "beginning": "14:00",
+      "end": "15:45",
+      "teacher": "Kiss Judit",
+      "credit": 4,
+      "day_code": 3
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA11",
+      "course_label": "Adatbányászat (GINFBAN-PROPARTE-1)",
+      "weekday": "4 (Csütörtök)",
+      "course_type": "Labor",
+      "beginning": "09:30",
+      "end": "11:15",
+      "teacher": "Kovács László",
+      "credit": 2,
+      "day_code": 4
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA12",
+      "course_label": "Operációs rendszerek (GINFBAN-PROPARTE-1)",
+      "weekday": "5 (Péntek)",
+      "course_type": "Előadás",
+      "beginning": "13:00",
+      "end": "14:45",
+      "teacher": "Tóth Péter Dr.",
+      "credit": 3,
+      "day_code": 5
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA13",
+      "course_label": "Mesterséges intelligencia (GINFBAN-PROPARTE-1)",
+      "weekday": "1 (Hétfő)",
+      "course_type": "Labor",
+      "beginning": "11:00",
+      "end": "12:45",
+      "teacher": "Kovács Péter",
+      "credit": 1,
+      "day_code": 1
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA14",
+      "course_label": "Algoritmusok és adatszerkezetek (GINFBAN-PROPARTE-1)",
+      "weekday": "5 (Péntek)",
+      "course_type": "Előadás",
+      "beginning": "14:30",
+      "end": "16:15",
+      "teacher": "Nagy Gábor Dr.",
+      "credit": 5,
+      "day_code": 5
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA15",
+      "course_label": "Hálózatok (GINFBAN-PROPARTE-1)",
+      "weekday": "3 (Szerda)",
+      "course_type": "Labor",
+      "beginning": "08:00",
+      "end": "09:45",
+      "teacher": "Kovács Anna",
+      "credit": 3,
+      "day_code": 3
+    },
+    {
+      "course_code": "N-K-GINFBAN-PROPARTE-1-LA16",
+      "course_label": "Számítógépes grafika (GINFBAN-PROPARTE-1)",
+      "weekday": "4 (Csütörtök)",
+      "course_type": "Előadás",
+      "beginning": "10:00",
+      "end": "11:45",
+      "teacher": "Kiss Márton",
+      "credit": 2,
+      "day_code": 4
+    }
+  ]
+}
